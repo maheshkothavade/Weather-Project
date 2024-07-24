@@ -2,7 +2,7 @@
 
 Weather app basically takes city name as input and give the result as temperature of city
 
-## Technology Used
+## Technologies Used
 1. HTML
 2. CSS
 3. ReactJS
