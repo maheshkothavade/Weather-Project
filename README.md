@@ -1,6 +1,6 @@
 # Weather App
 
-Weather app basically takes city name as input and give the result as temperature of city
+A web application providing real-time weather updates for various locations. Users can search for weather conditions by city,view current conditions (temperature, humidity, wind speed), and see a 5-day forecast.
 
 ## Technologies Used
 1. HTML
